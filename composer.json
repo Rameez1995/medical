@@ -72,6 +72,7 @@
     "config": {
         "optimize-autoloader": true,
         "preferred-install": "dist",
+        "platform-check": false,
         "sort-packages": true,
         "allow-plugins": {
             "composer/installers": true
